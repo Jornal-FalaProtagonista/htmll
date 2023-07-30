@@ -1,0 +1,1252 @@
+.-poder-medicinal-das-plantas-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-navbar-container {
+  width: 100%;
+  display: flex;
+  z-index: 100;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.22);
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #c70d05;
+}
+.-poder-medicinal-das-plantas-navbar {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-heading {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Arvo;
+  text-decoration: none;
+}
+.-poder-medicinal-das-plantas-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.-poder-medicinal-das-plantas-link {
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.55;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-transform: none;
+  text-decoration: none;
+}
+.-poder-medicinal-das-plantas-link01 {
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.55;
+  text-transform: none;
+  text-decoration: none;
+}
+.-poder-medicinal-das-plantas-burger-menu {
+  display: none;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-icon {
+  width: 8px;
+  height: 8px;
+}
+.-poder-medicinal-das-plantas-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-tripleunit);
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #fff;
+}
+.-poder-medicinal-das-plantas-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-close-menu {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.-poder-medicinal-das-plantas-links-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-link02 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.-poder-medicinal-das-plantas-link03 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.-poder-medicinal-das-plantas-link04 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.-poder-medicinal-das-plantas-container2 {
+  width: 100%;
+  height: 697px;
+  display: flex;
+  position: relative;
+  align-self: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 2.00%,rgba(0, 0, 0, 0.3) 100.00%),url('https://lh3.google.com/u/2/d/1IBnap_J01xMIdW3UTKF7Y1tEELqCDqmX=w1365-h553-iv1');
+  background-position: top left,center;
+}
+.-poder-medicinal-das-plantas-container3 {
+  width: 100%;
+  height: 697px;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxcontent);
+  align-self: center;
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: center;
+}
+.-poder-medicinal-das-plantas-text {
+  top: 18%;
+  left: 24px;
+  color: rgb(255, 255, 255);
+  width: auto;
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 5%;
+}
+.-poder-medicinal-das-plantas-text04 {
+  left: 97px;
+  color: rgb(255, 255, 255);
+  bottom: 7%;
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0%;
+}
+.-poder-medicinal-das-plantas-link06 {
+  display: contents;
+}
+.-poder-medicinal-das-plantas-rectangle3 {
+  right: 16px;
+  width: 50px;
+  bottom: 12%;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 28px;
+  background-size: cover;
+  justify-content: center;
+  text-decoration: none;
+  background-image: url("public/external/rectangle31345-pk4-200h.png");
+  background-position: center;
+}
+.-poder-medicinal-das-plantas-image {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 45%;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+}
+.-poder-medicinal-das-plantas-link07 {
+  display: contents;
+}
+.-poder-medicinal-das-plantas-rectangle31 {
+  right: var(--dl-space-space-tenunits);
+  width: 50px;
+  bottom: 12%;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 28px;
+  background-size: cover;
+  justify-content: flex-end;
+  text-decoration: none;
+  background-image: url("public/external/rectangle31345-pk4-200h.png");
+  background-position: center;
+}
+.-poder-medicinal-das-plantas-image1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 45%;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+}
+.-poder-medicinal-das-plantas-text05 {
+  color: rgb(255, 255, 255);
+  right: var(--dl-space-space-doubleunit);
+  width: 60%;
+  bottom: 7%;
+  height: 20px;
+  position: absolute;
+  text-align: right;
+  font-weight: 300;
+  margin-bottom: 0%;
+}
+.-poder-medicinal-das-plantas-rectangle32 {
+  left: 16px;
+  width: 52px;
+  bottom: 5%;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  border-radius: var(--dl-radius-radius-round);
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://lh3.google.com/u/2/d/10ZNZGFBb1-wJaWce_k96YroWi0Q3TDV5=w2559-h812-iv1');
+}
+.-poder-medicinal-das-plantas-text06 {
+  top: 153px;
+  left: 24px;
+  color: rgb(255, 255, 255);
+  width: auto;
+  position: absolute;
+  font-size: 56px;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: 1.22;
+  text-transform: none;
+  text-decoration: none;
+}
+.-poder-medicinal-das-plantas-features {
+  width: 100%;
+  height: auto;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  margin-top: 0px;
+  align-items: center;
+  padding-top: 0px;
+  padding-left: 0px0;
+  margin-bottom: 0px;
+  padding-right: 0px;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-text07 {
+  color: var(--dl-color-light_textcolor-body1);
+  width: 100%;
+  height: auto;
+  font-size: 20px;
+  max-width: var(--dl-size-size-maxcontent);
+  align-self: auto;
+  margin-top: var(--dl-space-space-tripleunit);
+  text-align: left;
+  line-height: 150%;
+  padding-left: var(--dl-space-space-tripleunit);
+  margin-bottom: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+}
+.-poder-medicinal-das-plantas-hero {
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 0px;
+  max-width: 1400px;
+  min-height: auto;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-image2 {
+  width: 391px;
+  height: 456px;
+  margin: 5%;
+  margin-top: var(--dl-space-space-fourunits);
+  object-fit: cover;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  margin-bottom: 5%;
+}
+.-poder-medicinal-das-plantas-container4 {
+  flex: 0 0 auto;
+  width: 551px;
+  height: auto;
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-text22 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.22;
+  margin-bottom: 2%;
+  text-transform: none;
+  text-decoration: none;
+}
+.-poder-medicinal-das-plantas-container5 {
+  width: 795px;
+  display: flex;
+  margin-left: 0px;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-btn-group {
+  display: flex;
+  margin-top: var(--dl-space-space-unit);
+  align-items: center;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.-poder-medicinal-das-plantas-button {
+  width: 180px;
+  height: 52px;
+  display: flex;
+  padding: 18px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: var(--dl-space-space-unit);
+  border-radius: 28px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-padro);
+}
+.-poder-medicinal-das-plantas-image3 {
+  width: 15%;
+  align-self: center;
+  object-fit: cover;
+}
+.-poder-medicinal-das-plantas-text26 {
+  color: var(--dl-color-light_textlinkcolor-white);
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  line-height: 120%;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.-poder-medicinal-das-plantas-button1 {
+  width: 180px;
+  height: 52px;
+  display: flex;
+  padding: 18px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  margin-left: var(--dl-space-space-unit);
+  border-color: transparent;
+  border-radius: 28px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-padro);
+}
+.-poder-medicinal-das-plantas-image4 {
+  width: 15%;
+  align-self: center;
+  object-fit: cover;
+}
+.-poder-medicinal-das-plantas-text27 {
+  color: var(--dl-color-light_textlinkcolor-white);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  line-height: 120%;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.-poder-medicinal-das-plantas-footer-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-white);
+}
+.-poder-medicinal-das-plantas-footer {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  align-items: center;
+  padding-top: 32px;
+  padding-left: 48px;
+  padding-right: 48px;
+  flex-direction: column;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-footer1 {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  align-items: stretch;
+  padding-top: 32px;
+  padding-left: 48px;
+  padding-right: 48px;
+  flex-direction: column;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-container6 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.-poder-medicinal-das-plantas-container7 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-logo {
+  display: flex;
+  max-width: 1400px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.-poder-medicinal-das-plantas-image5 {
+  width: 30%;
+  height: auto;
+  object-fit: cover;
+}
+.-poder-medicinal-das-plantas-text28 {
+  font-size: 18px;
+  margin-top: var(--dl-space-space-unit);
+  font-family: Arvo;
+}
+.-poder-medicinal-das-plantas-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-container8 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.-poder-medicinal-das-plantas-socials {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.-poder-medicinal-das-plantas-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.-poder-medicinal-das-plantas-link08 {
+  display: contents;
+}
+.-poder-medicinal-das-plantas-icon4 {
+  width: 32px;
+  height: 32px;
+  text-decoration: none;
+}
+.-poder-medicinal-das-plantas-link09 {
+  display: contents;
+}
+.-poder-medicinal-das-plantas-icon6 {
+  width: 32px;
+  height: 32px;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0px;
+  text-decoration: none;
+}
+.-poder-medicinal-das-plantas-separator {
+  width: 100%;
+  height: 1px;
+  margin-top: var(--dl-space-space-doubleunit);
+  margin-bottom: var(--dl-space-space-doubleunit);
+  background-color: var(--dl-color-gray-900);
+}
+.-poder-medicinal-das-plantas-text29 {
+  align-self: flex-start;
+}
+@media(max-width: 1200px) {
+  .-poder-medicinal-das-plantas-heading {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family: Arvo;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-link {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-link01 {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-container2 {
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 2.00%,rgba(0, 0, 0, 0.3) 100.00%),url('https://lh3.google.com/u/2/d/1IBnap_J01xMIdW3UTKF7Y1tEELqCDqmX=w1365-h553-iv1');
+  }
+  .-poder-medicinal-das-plantas-text {
+    color: rgb(255, 255, 255);
+  }
+  .-poder-medicinal-das-plantas-text02 {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .-poder-medicinal-das-plantas-text04 {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-weight: 300;
+  }
+  .-poder-medicinal-das-plantas-rectangle31 {
+    right: var(--dl-space-space-tenunits);
+  }
+  .-poder-medicinal-das-plantas-text05 {
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+  }
+  .-poder-medicinal-das-plantas-rectangle32 {
+    background-size: cover;
+    background-image: url('https://lh3.google.com/u/2/d/10ZNZGFBb1-wJaWce_k96YroWi0Q3TDV5=w2559-h812-iv1');
+  }
+  .-poder-medicinal-das-plantas-text06 {
+    top: 153px;
+    color: rgb(255, 255, 255);
+    right: 0px;
+    font-size: 40px;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-text07 {
+    color: var(--dl-color-light_textcolor-body1);
+  }
+  .-poder-medicinal-das-plantas-text08 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text09 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text10 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text11 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text13 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text16 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text17 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text19 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-image2 {
+    width: 378px;
+    height: 443px;
+    margin-right: var(--dl-space-space-tripleunit);
+  }
+  .-poder-medicinal-das-plantas-text22 {
+    text-transform: none;
+  }
+  .-poder-medicinal-das-plantas-container5 {
+    width: 551px;
+  }
+  .-poder-medicinal-das-plantas-btn-group {
+    width: 369px;
+  }
+}
+@media(max-width: 991px) {
+  .-poder-medicinal-das-plantas-navbar-container {
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.35);
+  }
+  .-poder-medicinal-das-plantas-navbar {
+    background-color: #C70D05;
+  }
+  .-poder-medicinal-das-plantas-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    text-align: center;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-link {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-link01 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-heading1 {
+    text-align: center;
+  }
+  .-poder-medicinal-das-plantas-container2 {
+    width: 100%;
+    height: 642px;
+    padding: var(--dl-space-space-fourunits);
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 2.00%,rgba(0, 0, 0, 0.3) 100.00%),url('https://lh3.google.com/u/2/d/1IBnap_J01xMIdW3UTKF7Y1tEELqCDqmX=w1365-h553-iv1');
+    background-position: top left,center;
+  }
+  .-poder-medicinal-das-plantas-container3 {
+    width: 100%;
+    padding: var(--dl-space-space-fourunits);
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .-poder-medicinal-das-plantas-text {
+    color: rgb(255, 255, 255);
+    width: auto;
+    font-size: 14px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: 1;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .-poder-medicinal-das-plantas-text01 {
+    color: rgb(255, 255, 255);
+    width: auto;
+    font-size: 14px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: 1;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .-poder-medicinal-das-plantas-text03 {
+    color: rgb(255, 255, 255);
+    width: auto;
+    font-size: 14px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: 1;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .-poder-medicinal-das-plantas-text04 {
+    left: 70px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    bottom: 5%;
+    font-size: 12px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .-poder-medicinal-das-plantas-rectangle3 {
+    bottom: 12%;
+  }
+  .-poder-medicinal-das-plantas-rectangle31 {
+    bottom: 12%;
+  }
+  .-poder-medicinal-das-plantas-text05 {
+    top: 525px;
+    color: rgb(255, 255, 255);
+    width: 60%;
+    bottom: 5%;
+    font-size: 12px;
+    text-align: right;
+    font-family: Inter;
+    font-weight: 400;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .-poder-medicinal-das-plantas-rectangle32 {
+    width: 45px;
+    bottom: 3%;
+    height: 45px;
+  }
+  .-poder-medicinal-das-plantas-text06 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    margin-bottom: 0px;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-features {
+    height: auto;
+    padding-bottom: 0px;
+  }
+  .-poder-medicinal-das-plantas-text07 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 18px;
+    line-height: 150%;
+  }
+  .-poder-medicinal-das-plantas-hero {
+    padding: 48px;
+    flex-direction: column;
+  }
+  .-poder-medicinal-das-plantas-image2 {
+    margin-left: var(--dl-space-space-tripleunit);
+  }
+  .-poder-medicinal-das-plantas-text22 {
+    font-size: 42px;
+    font-style: normal;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-container5 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 32px;
+  }
+  .-poder-medicinal-das-plantas-button {
+    height: 32px;
+    margin-top: var(--dl-space-space-doubleunit);
+  }
+  .-poder-medicinal-das-plantas-button1 {
+    height: 32px;
+    margin-top: var(--dl-space-space-doubleunit);
+  }
+  .-poder-medicinal-das-plantas-footer {
+    flex-direction: column;
+  }
+  .-poder-medicinal-das-plantas-footer1 {
+    flex-direction: column;
+  }
+}
+@media(max-width: 767px) {
+  .-poder-medicinal-das-plantas-container {
+    background-color: #ffffff;
+  }
+  .-poder-medicinal-das-plantas-navbar {
+    padding: var(--dl-space-space-doubleunit);
+    position: relative;
+    background-color: #C70D05;
+  }
+  .-poder-medicinal-das-plantas-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    margin-left: var(--dl-space-space-doubleunit);
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-links-container {
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .-poder-medicinal-das-plantas-burger-menu {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    padding: var(--dl-space-space-halfunit);
+    margin-left: var(--dl-space-space-tripleunit);
+    border-radius: var(--dl-radius-radius-radius4);
+    background-color: #f7f7f7;
+  }
+  .-poder-medicinal-das-plantas-icon {
+    fill: #C70D05;
+    width: 32px;
+    height: 32px;
+    align-self: center;
+  }
+  .-poder-medicinal-das-plantas-container2 {
+    height: 473px;
+    margin-bottom: 0px;
+  }
+  .-poder-medicinal-das-plantas-text {
+    top: 12%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1;
+  }
+  .-poder-medicinal-das-plantas-text01 {
+    top: 12%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1;
+  }
+  .-poder-medicinal-das-plantas-text03 {
+    top: 12%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1;
+  }
+  .-poder-medicinal-das-plantas-text04 {
+    left: 38px;
+    color: rgb(255, 255, 255);
+    bottom: 2%;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .-poder-medicinal-das-plantas-rectangle3 {
+    width: 32px;
+    bottom: 7%;
+    height: 32px;
+  }
+  .-poder-medicinal-das-plantas-image {
+    width: 45%;
+  }
+  .-poder-medicinal-das-plantas-rectangle31 {
+    right: 56px;
+    width: 32px;
+    bottom: 7%;
+    height: 32px;
+  }
+  .-poder-medicinal-das-plantas-image1 {
+    width: 45%;
+  }
+  .-poder-medicinal-das-plantas-text05 {
+    top: 385px;
+    color: rgb(255, 255, 255);
+    right: 15px;
+    width: 60%;
+    bottom: 2%;
+    height: 20px;
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .-poder-medicinal-das-plantas-rectangle32 {
+    left: 0px;
+    width: 32px;
+    bottom: 0%;
+    height: 32px;
+  }
+  .-poder-medicinal-das-plantas-text06 {
+    top: 16%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-features {
+    height: auto;
+  }
+  .-poder-medicinal-das-plantas-text07 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 18px;
+    text-align: justify;
+    line-height: 150%;
+  }
+  .-poder-medicinal-das-plantas-hero {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .-poder-medicinal-das-plantas-container4 {
+    flex: 1;
+    width: 70%;
+  }
+  .-poder-medicinal-das-plantas-container5 {
+    width: 100%;
+  }
+  .-poder-medicinal-das-plantas-footer {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .-poder-medicinal-das-plantas-footer1 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .-poder-medicinal-das-plantas-container7 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .-poder-medicinal-das-plantas-logo {
+    align-items: center;
+  }
+  .-poder-medicinal-das-plantas-text28 {
+    margin-top: 32px;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+}
+@media(max-width: 479px) {
+  .-poder-medicinal-das-plantas-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-burger-menu {
+    margin-left: var(--dl-space-space-doubleunit);
+  }
+  .-poder-medicinal-das-plantas-container2 {
+    background-position: top left,center;
+  }
+  .-poder-medicinal-das-plantas-text {
+    top: 15%;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+  }
+  .-poder-medicinal-das-plantas-text01 {
+    top: 15%;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+  }
+  .-poder-medicinal-das-plantas-text03 {
+    top: 15%;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+  }
+  .-poder-medicinal-das-plantas-text04 {
+    left: 32px;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    bottom: 29px;
+    height: auto;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .-poder-medicinal-das-plantas-rectangle3 {
+    left: 32px;
+    width: 24px;
+    bottom: 59px;
+    height: 24px;
+  }
+  .-poder-medicinal-das-plantas-image {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 45%;
+    bottom: 0px;
+    margin: auto;
+  }
+  .-poder-medicinal-das-plantas-rectangle31 {
+    left: 0px;
+    width: 24px;
+    bottom: 60px;
+    height: 24px;
+  }
+  .-poder-medicinal-das-plantas-image1 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 45%;
+    bottom: 0px;
+    margin: auto;
+  }
+  .-poder-medicinal-das-plantas-text05 {
+    top: 392px;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    bottom: 4px;
+    height: auto;
+    position: absolute;
+    font-size: 8px;
+    font-style: normal;
+    text-align: left;
+    font-weight: 300;
+  }
+  .-poder-medicinal-das-plantas-rectangle32 {
+    left: 0px;
+    width: 24px;
+    bottom: 24px;
+    height: 24px;
+  }
+  .-poder-medicinal-das-plantas-text06 {
+    top: var(--dl-space-space-tenunits);
+    left: 0px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 28px;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-text07 {
+    color: var(--dl-color-light_textcolor-body1);
+  }
+  .-poder-medicinal-das-plantas-text08 {
+    font-size: 18px;
+  }
+  .-poder-medicinal-das-plantas-text09 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text10 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text11 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text12 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text13 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text14 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text15 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text16 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text17 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text18 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-text19 {
+    font-size: 14px;
+  }
+  .-poder-medicinal-das-plantas-hero {
+    height: 500px;
+    min-width: 100%;
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .-poder-medicinal-das-plantas-image2 {
+    width: 60%;
+    height: auto;
+    margin: 0px;
+    align-self: center;
+  }
+  .-poder-medicinal-das-plantas-container4 {
+    width: 320px;
+    height: 120px;
+  }
+  .-poder-medicinal-das-plantas-text22 {
+    width: 80%;
+    font-size: 32px;
+    min-width: 80%;
+    align-self: center;
+    font-style: normal;
+    margin-top: var(--dl-space-space-unit);
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.22;
+    margin-bottom: var(--dl-space-space-unit);
+    text-transform: none;
+    text-decoration: none;
+  }
+  .-poder-medicinal-das-plantas-container5 {
+    width: 339px;
+    height: 18px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .-poder-medicinal-das-plantas-btn-group {
+    height: 33px;
+    margin-top: var(--dl-space-space-unit);
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-unit);
+    flex-direction: row;
+    justify-content: center;
+  }
+  .-poder-medicinal-das-plantas-button {
+    width: 120px;
+    height: 32px;
+    margin-top: 0px;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .-poder-medicinal-das-plantas-image3 {
+    width: 15%;
+  }
+  .-poder-medicinal-das-plantas-text26 {
+    color: var(--dl-color-light_textlinkcolor-white);
+    font-size: 12px;
+    font-style: normal;
+    font-family: Inter;
+    line-height: 120%;
+  }
+  .-poder-medicinal-das-plantas-button1 {
+    width: 120px;
+    height: 32px;
+    margin-top: 0px;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+    justify-content: center;
+  }
+  .-poder-medicinal-das-plantas-image4 {
+    width: 15%;
+  }
+  .-poder-medicinal-das-plantas-text27 {
+    color: var(--dl-color-light_textlinkcolor-white);
+    font-size: 12px;
+    align-self: center;
+    font-style: normal;
+    font-family: Inter;
+    line-height: 120%;
+  }
+  .-poder-medicinal-das-plantas-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .-poder-medicinal-das-plantas-footer1 {
+    padding: var(--dl-space-space-unit);
+  }
+  .-poder-medicinal-das-plantas-container7 {
+    align-items: center;
+    flex-direction: column;
+  }
+  .-poder-medicinal-das-plantas-image5 {
+    width: 40%;
+  }
+  .-poder-medicinal-das-plantas-text28 {
+    font-size: 14px;
+    margin-top: var(--dl-space-space-doubleunit);
+    font-family: Arvo;
+    margin-bottom: var(--dl-space-space-doubleunit);
+  }
+  .-poder-medicinal-das-plantas-links-container {
+    align-items: center;
+    flex-direction: column;
+  }
+  .-poder-medicinal-das-plantas-container8 {
+    margin-top: 24px;
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
+  .-poder-medicinal-das-plantas-icon4 {
+    width: 20px;
+    height: 20px;
+  }
+  .-poder-medicinal-das-plantas-icon6 {
+    width: 20px;
+    height: 20px;
+  }
+  .-poder-medicinal-das-plantas-text29 {
+    font-size: 12px;
+    align-self: center;
+    text-align: center;
+  }
+}

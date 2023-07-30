@@ -1,0 +1,1133 @@
+.desastres-naturais-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desastres-naturais-navbar-container {
+  width: 100%;
+  display: flex;
+  z-index: 100;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.22);
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #c70d05;
+}
+.desastres-naturais-navbar {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: space-between;
+}
+.desastres-naturais-heading {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Arvo;
+  text-decoration: none;
+}
+.desastres-naturais-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.desastres-naturais-link {
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.55;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-transform: none;
+  text-decoration: none;
+}
+.desastres-naturais-link01 {
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.55;
+  text-transform: none;
+  text-decoration: none;
+}
+.desastres-naturais-burger-menu {
+  display: none;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desastres-naturais-icon {
+  width: 8px;
+  height: 8px;
+}
+.desastres-naturais-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-tripleunit);
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #fff;
+}
+.desastres-naturais-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.desastres-naturais-close-menu {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desastres-naturais-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.desastres-naturais-links-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desastres-naturais-link02 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.desastres-naturais-link03 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.desastres-naturais-link04 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.desastres-naturais-container2 {
+  width: 100%;
+  height: 697px;
+  display: flex;
+  position: relative;
+  align-self: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 1.00%,rgba(0, 0, 0, 0.3) 98.00%),url('https://lh3.google.com/u/2/d/1hLq4PgR41OqiQOpE_8u2JEm4CGWyEUl_=w2560-h892-iv1');
+  background-position: top left;
+}
+.desastres-naturais-container3 {
+  width: 100%;
+  height: 697px;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxcontent);
+  align-self: center;
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: center;
+}
+.desastres-naturais-text {
+  top: 18%;
+  left: 24px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 5%;
+}
+.desastres-naturais-text01 {
+  left: 97px;
+  color: rgb(255, 255, 255);
+  bottom: 7%;
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0%;
+}
+.desastres-naturais-link06 {
+  display: contents;
+}
+.desastres-naturais-rectangle3 {
+  right: 16px;
+  width: 50px;
+  bottom: 12%;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 28px;
+  background-size: cover;
+  justify-content: center;
+  text-decoration: none;
+  background-image: url("public/external/rectangle31345-pk4-200h.png");
+  background-position: center;
+}
+.desastres-naturais-image {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 45%;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+}
+.desastres-naturais-link07 {
+  display: contents;
+}
+.desastres-naturais-rectangle31 {
+  right: var(--dl-space-space-tenunits);
+  width: 50px;
+  bottom: 12%;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 28px;
+  background-size: cover;
+  justify-content: flex-end;
+  text-decoration: none;
+  background-image: url("public/external/rectangle31345-pk4-200h.png");
+  background-position: center;
+}
+.desastres-naturais-image1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 45%;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+}
+.desastres-naturais-text02 {
+  color: rgb(255, 255, 255);
+  right: var(--dl-space-space-doubleunit);
+  width: 60%;
+  bottom: 7%;
+  height: 20px;
+  position: absolute;
+  text-align: right;
+  font-weight: 300;
+  margin-bottom: 0%;
+}
+.desastres-naturais-rectangle32 {
+  left: 16px;
+  width: 52px;
+  bottom: 5%;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  border-radius: var(--dl-radius-radius-round);
+  background-size: cover;
+  justify-content: center;
+  background-image: url("https://play.teleporthq.io/static/svg/placeholders/no-image.svg");
+}
+.desastres-naturais-text03 {
+  top: 153px;
+  left: 24px;
+  color: rgb(255, 255, 255);
+  width: auto;
+  position: absolute;
+  font-size: 56px;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: 1.22;
+  text-transform: none;
+  text-decoration: none;
+}
+.desastres-naturais-features {
+  width: 100%;
+  height: auto;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  margin-top: 0px;
+  align-items: center;
+  padding-top: 0px;
+  padding-left: 0px0;
+  margin-bottom: 0px;
+  padding-right: 0px;
+  flex-direction: column;
+}
+.desastres-naturais-text06 {
+  color: var(--dl-color-light_textcolor-body1);
+  width: 100%;
+  height: auto;
+  font-size: 20px;
+  max-width: var(--dl-size-size-maxcontent);
+  align-self: auto;
+  margin-top: var(--dl-space-space-tripleunit);
+  text-align: left;
+  line-height: 150%;
+  padding-left: var(--dl-space-space-tripleunit);
+  margin-bottom: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+}
+.desastres-naturais-hero {
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 0px;
+  max-width: 1400px;
+  min-height: auto;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.desastres-naturais-image2 {
+  width: 391px;
+  height: 456px;
+  margin: 5%;
+  margin-top: var(--dl-space-space-fourunits);
+  object-fit: cover;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  margin-bottom: 5%;
+}
+.desastres-naturais-container4 {
+  flex: 0 0 auto;
+  width: 551px;
+  height: auto;
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+}
+.desastres-naturais-text20 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.22;
+  margin-bottom: 2%;
+  text-transform: none;
+  text-decoration: none;
+}
+.desastres-naturais-container5 {
+  width: 795px;
+  display: flex;
+  margin-left: 0px;
+  flex-direction: column;
+}
+.desastres-naturais-btn-group {
+  display: flex;
+  margin-top: var(--dl-space-space-unit);
+  align-items: center;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.desastres-naturais-button {
+  width: 180px;
+  height: 52px;
+  display: flex;
+  padding: 18px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: var(--dl-space-space-unit);
+  border-radius: 28px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-padro);
+}
+.desastres-naturais-image3 {
+  width: 15%;
+  align-self: center;
+  object-fit: cover;
+}
+.desastres-naturais-text24 {
+  color: var(--dl-color-light_textlinkcolor-white);
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  line-height: 120%;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.desastres-naturais-button1 {
+  width: 180px;
+  height: 52px;
+  display: flex;
+  padding: 18px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  margin-left: var(--dl-space-space-unit);
+  border-color: transparent;
+  border-radius: 28px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-padro);
+}
+.desastres-naturais-image4 {
+  width: 15%;
+  align-self: center;
+  object-fit: cover;
+}
+.desastres-naturais-text25 {
+  color: var(--dl-color-light_textlinkcolor-white);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  line-height: 120%;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.desastres-naturais-footer-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-white);
+}
+.desastres-naturais-footer {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  align-items: center;
+  padding-top: 32px;
+  padding-left: 48px;
+  padding-right: 48px;
+  flex-direction: column;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.desastres-naturais-footer1 {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  align-items: stretch;
+  padding-top: 32px;
+  padding-left: 48px;
+  padding-right: 48px;
+  flex-direction: column;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.desastres-naturais-container6 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.desastres-naturais-container7 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.desastres-naturais-logo {
+  display: flex;
+  max-width: 1400px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desastres-naturais-image5 {
+  width: 30%;
+  height: auto;
+  object-fit: cover;
+}
+.desastres-naturais-text26 {
+  font-size: 18px;
+  margin-top: var(--dl-space-space-unit);
+  font-family: Arvo;
+}
+.desastres-naturais-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.desastres-naturais-container8 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.desastres-naturais-socials {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.desastres-naturais-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.desastres-naturais-link08 {
+  display: contents;
+}
+.desastres-naturais-icon4 {
+  width: 32px;
+  height: 32px;
+  text-decoration: none;
+}
+.desastres-naturais-link09 {
+  display: contents;
+}
+.desastres-naturais-icon6 {
+  width: 32px;
+  height: 32px;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0px;
+  text-decoration: none;
+}
+.desastres-naturais-separator {
+  width: 100%;
+  height: 1px;
+  margin-top: var(--dl-space-space-doubleunit);
+  margin-bottom: var(--dl-space-space-doubleunit);
+  background-color: var(--dl-color-gray-900);
+}
+.desastres-naturais-text27 {
+  align-self: flex-start;
+}
+@media(max-width: 1200px) {
+  .desastres-naturais-heading {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family: Arvo;
+    text-decoration: none;
+  }
+  .desastres-naturais-link {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-link01 {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-text {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-weight: 300;
+  }
+  .desastres-naturais-rectangle31 {
+    right: var(--dl-space-space-tenunits);
+  }
+  .desastres-naturais-text03 {
+    top: 153px;
+    color: rgb(255, 255, 255);
+    right: 0px;
+    font-size: 40px;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-text04 {
+    font-size: 44px;
+  }
+  .desastres-naturais-text06 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 20px;
+    line-height: 150%;
+  }
+  .desastres-naturais-image2 {
+    width: 378px;
+    height: 443px;
+    margin-right: var(--dl-space-space-tripleunit);
+  }
+  .desastres-naturais-text20 {
+    text-transform: none;
+  }
+  .desastres-naturais-container5 {
+    width: 551px;
+  }
+  .desastres-naturais-btn-group {
+    width: 369px;
+  }
+}
+@media(max-width: 991px) {
+  .desastres-naturais-navbar-container {
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.35);
+  }
+  .desastres-naturais-navbar {
+    background-color: #C70D05;
+  }
+  .desastres-naturais-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    text-align: center;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-link {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-link01 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-heading1 {
+    text-align: center;
+  }
+  .desastres-naturais-container2 {
+    width: 100%;
+    height: 642px;
+    padding: var(--dl-space-space-fourunits);
+  }
+  .desastres-naturais-container3 {
+    width: 100%;
+    padding: var(--dl-space-space-fourunits);
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .desastres-naturais-text {
+    color: rgb(255, 255, 255);
+    width: auto;
+    font-size: 14px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: 1;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .desastres-naturais-text01 {
+    left: 70px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    bottom: 5%;
+    font-size: 12px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .desastres-naturais-rectangle3 {
+    bottom: 12%;
+  }
+  .desastres-naturais-rectangle31 {
+    bottom: 12%;
+  }
+  .desastres-naturais-text02 {
+    top: 525px;
+    color: rgb(255, 255, 255);
+    width: 60%;
+    bottom: 5%;
+    font-size: 12px;
+    font-style: normal;
+    text-align: right;
+    font-family: Inter;
+    font-weight: 300;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .desastres-naturais-rectangle32 {
+    width: 45px;
+    bottom: 3%;
+    height: 45px;
+  }
+  .desastres-naturais-text03 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    margin-bottom: 0px;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-text04 {
+    font-size: 44px;
+  }
+  .desastres-naturais-features {
+    height: auto;
+    padding-bottom: 0px;
+  }
+  .desastres-naturais-text06 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 18px;
+    line-height: 150%;
+  }
+  .desastres-naturais-hero {
+    padding: 48px;
+    flex-direction: column;
+  }
+  .desastres-naturais-image2 {
+    margin-left: var(--dl-space-space-tripleunit);
+  }
+  .desastres-naturais-text20 {
+    font-size: 42px;
+    font-style: normal;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-container5 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 32px;
+  }
+  .desastres-naturais-button {
+    height: 32px;
+    margin-top: var(--dl-space-space-doubleunit);
+  }
+  .desastres-naturais-button1 {
+    height: 32px;
+    margin-top: var(--dl-space-space-doubleunit);
+  }
+  .desastres-naturais-footer {
+    flex-direction: column;
+  }
+  .desastres-naturais-footer1 {
+    flex-direction: column;
+  }
+}
+@media(max-width: 767px) {
+  .desastres-naturais-container {
+    background-color: #ffffff;
+  }
+  .desastres-naturais-navbar {
+    padding: var(--dl-space-space-doubleunit);
+    position: relative;
+    background-color: #C70D05;
+  }
+  .desastres-naturais-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    margin-left: var(--dl-space-space-doubleunit);
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-links-container {
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .desastres-naturais-burger-menu {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    padding: var(--dl-space-space-halfunit);
+    margin-left: var(--dl-space-space-tripleunit);
+    border-radius: var(--dl-radius-radius-radius4);
+    background-color: #f7f7f7;
+  }
+  .desastres-naturais-icon {
+    fill: #C70D05;
+    width: 32px;
+    height: 32px;
+    align-self: center;
+  }
+  .desastres-naturais-container2 {
+    height: 473px;
+    margin-bottom: 0px;
+  }
+  .desastres-naturais-text {
+    top: 12%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1;
+  }
+  .desastres-naturais-text01 {
+    left: 38px;
+    color: rgb(255, 255, 255);
+    bottom: 2%;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .desastres-naturais-rectangle3 {
+    width: 32px;
+    bottom: 7%;
+    height: 32px;
+  }
+  .desastres-naturais-image {
+    width: 45%;
+  }
+  .desastres-naturais-rectangle31 {
+    right: 56px;
+    width: 32px;
+    bottom: 7%;
+    height: 32px;
+  }
+  .desastres-naturais-image1 {
+    width: 45%;
+  }
+  .desastres-naturais-text02 {
+    top: 385px;
+    color: rgb(255, 255, 255);
+    right: 15px;
+    width: 60%;
+    bottom: 2%;
+    height: 20px;
+    position: absolute;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .desastres-naturais-rectangle32 {
+    left: 0px;
+    width: 32px;
+    bottom: 0%;
+    height: 32px;
+  }
+  .desastres-naturais-text03 {
+    top: 16%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-text04 {
+    font-size: 30px;
+  }
+  .desastres-naturais-features {
+    height: auto;
+  }
+  .desastres-naturais-text06 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 16px;
+    text-align: justify;
+    line-height: 150%;
+  }
+  .desastres-naturais-hero {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .desastres-naturais-container4 {
+    flex: 1;
+    width: 70%;
+  }
+  .desastres-naturais-container5 {
+    width: 100%;
+  }
+  .desastres-naturais-footer {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .desastres-naturais-footer1 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .desastres-naturais-container7 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .desastres-naturais-logo {
+    align-items: center;
+  }
+  .desastres-naturais-text26 {
+    margin-top: 32px;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+}
+@media(max-width: 479px) {
+  .desastres-naturais-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-burger-menu {
+    margin-left: var(--dl-space-space-doubleunit);
+  }
+  .desastres-naturais-container2 {
+    background-position: top left;
+  }
+  .desastres-naturais-text {
+    top: 15%;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+  }
+  .desastres-naturais-text01 {
+    left: 32px;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    bottom: 29px;
+    height: auto;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .desastres-naturais-rectangle3 {
+    left: 32px;
+    width: 24px;
+    bottom: 59px;
+    height: 24px;
+  }
+  .desastres-naturais-image {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 45%;
+    bottom: 0px;
+    margin: auto;
+  }
+  .desastres-naturais-rectangle31 {
+    left: 0px;
+    width: 24px;
+    bottom: 60px;
+    height: 24px;
+  }
+  .desastres-naturais-image1 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 45%;
+    bottom: 0px;
+    margin: auto;
+  }
+  .desastres-naturais-text02 {
+    top: 392px;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    bottom: 4px;
+    height: auto;
+    position: absolute;
+    font-size: 8px;
+    font-style: normal;
+    text-align: left;
+    font-weight: 300;
+  }
+  .desastres-naturais-rectangle32 {
+    left: 0px;
+    width: 24px;
+    bottom: 24px;
+    height: 24px;
+  }
+  .desastres-naturais-text03 {
+    top: var(--dl-space-space-tenunits);
+    left: 0px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 28px;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-text04 {
+    font-size: 24px;
+  }
+  .desastres-naturais-text06 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 16px;
+    line-height: 150%;
+  }
+  .desastres-naturais-hero {
+    height: 500px;
+    min-width: 100%;
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .desastres-naturais-image2 {
+    width: 60%;
+    height: auto;
+    margin: 0px;
+    align-self: center;
+  }
+  .desastres-naturais-container4 {
+    width: 320px;
+    height: 120px;
+  }
+  .desastres-naturais-text20 {
+    width: 80%;
+    font-size: 32px;
+    min-width: 80%;
+    align-self: center;
+    font-style: normal;
+    margin-top: var(--dl-space-space-unit);
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.22;
+    margin-bottom: var(--dl-space-space-unit);
+    text-transform: none;
+    text-decoration: none;
+  }
+  .desastres-naturais-container5 {
+    width: 339px;
+    height: 18px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .desastres-naturais-btn-group {
+    height: 33px;
+    margin-top: var(--dl-space-space-unit);
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-unit);
+    flex-direction: row;
+    justify-content: center;
+  }
+  .desastres-naturais-button {
+    width: 120px;
+    height: 32px;
+    margin-top: 0px;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .desastres-naturais-image3 {
+    width: 15%;
+  }
+  .desastres-naturais-text24 {
+    color: var(--dl-color-light_textlinkcolor-white);
+    font-size: 12px;
+    font-style: normal;
+    font-family: Inter;
+    line-height: 120%;
+  }
+  .desastres-naturais-button1 {
+    width: 120px;
+    height: 32px;
+    margin-top: 0px;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+    justify-content: center;
+  }
+  .desastres-naturais-image4 {
+    width: 15%;
+  }
+  .desastres-naturais-text25 {
+    color: var(--dl-color-light_textlinkcolor-white);
+    font-size: 12px;
+    align-self: center;
+    font-style: normal;
+    font-family: Inter;
+    line-height: 120%;
+  }
+  .desastres-naturais-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .desastres-naturais-footer1 {
+    padding: var(--dl-space-space-unit);
+  }
+  .desastres-naturais-container7 {
+    align-items: center;
+    flex-direction: column;
+  }
+  .desastres-naturais-image5 {
+    width: 40%;
+  }
+  .desastres-naturais-text26 {
+    font-size: 14px;
+    margin-top: var(--dl-space-space-doubleunit);
+    font-family: Arvo;
+    margin-bottom: var(--dl-space-space-doubleunit);
+  }
+  .desastres-naturais-links-container {
+    align-items: center;
+    flex-direction: column;
+  }
+  .desastres-naturais-container8 {
+    margin-top: 24px;
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
+  .desastres-naturais-icon4 {
+    width: 20px;
+    height: 20px;
+  }
+  .desastres-naturais-icon6 {
+    width: 20px;
+    height: 20px;
+  }
+  .desastres-naturais-text27 {
+    font-size: 12px;
+    align-self: center;
+    text-align: center;
+  }
+}

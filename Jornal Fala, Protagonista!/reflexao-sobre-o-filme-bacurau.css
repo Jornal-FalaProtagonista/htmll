@@ -1,0 +1,1131 @@
+.reflexao-sobre--filme-bacurau-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-navbar-container {
+  width: 100%;
+  display: flex;
+  z-index: 100;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.22);
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #c70d05;
+}
+.reflexao-sobre--filme-bacurau-navbar {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-heading {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Arvo;
+  text-decoration: none;
+}
+.reflexao-sobre--filme-bacurau-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.reflexao-sobre--filme-bacurau-link {
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.55;
+  margin-right: var(--dl-space-space-tripleunit);
+  text-transform: none;
+  text-decoration: none;
+}
+.reflexao-sobre--filme-bacurau-link01 {
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.55;
+  text-transform: none;
+  text-decoration: none;
+}
+.reflexao-sobre--filme-bacurau-burger-menu {
+  display: none;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-icon {
+  width: 8px;
+  height: 8px;
+}
+.reflexao-sobre--filme-bacurau-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-tripleunit);
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #fff;
+}
+.reflexao-sobre--filme-bacurau-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-close-menu {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.reflexao-sobre--filme-bacurau-links-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-link02 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.reflexao-sobre--filme-bacurau-link03 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.reflexao-sobre--filme-bacurau-link04 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.reflexao-sobre--filme-bacurau-container2 {
+  width: 100%;
+  height: 697px;
+  display: flex;
+  position: relative;
+  align-self: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 2.00%,rgba(0, 0, 0, 0.3) 100.00%),url('https://lh3.googleusercontent.com/fife/AKsag4OzxCpmZaSqi_UxkvMEA7u9z4vwRKIMJ7KkhYD5GzfmmzfJYSHF3QRPoie65mHycpo5Gr3hARx36IaGZALURlt3mqP90xOsksNdilMC3csR5Lx93QYPWNf_osX6cFDEXy9hkTgrQpuTiQy2_FEw2F2aXgXPPbm_6nnapvybT-adgFyK3LKZ623Oh7gZGWp0n5rChFhdbv3g2x71RxqRbYh5xtQVWdeQf80awOIIoTGyt8y0EjsNH36CdgAsiybyO_RD33UmKumsaiGpUfSWvSUCqXLHVuPZb4k6AZCk-hUHtLUM-AOlxSSZlgd3W1dVljBG3LGxbwrGALftQMH10h30ObC8cQjPUSC3oqan-lhBjKU9gUT9LX-Uyk0pn3W6qKLAe8vmTgxgfyrOOrbzLbCriSDShMo6-WSkM1FqjKfxnqZ5FbMkuMid-8NUWRAzpQiemC5ZOcp6jLlobXO_GVS1r2KIlCfDa0eD9qggKjB69S-ZWPMjhAI2b5wR7VdRhFlFwDdRsThNA03cTjA50ZoZRzWDOj1PuTbVSRVBxmt39ZfTqdLUWS0_0JV_6juK6axicYzU0m6_bgAHsPRyQdaVR9QzUnPjM1-uJaxdDxj8yxCXwNdVjJNNH6-p2P-v9pq_-cDLW3Ej4WiThkBQ0FXqyuPCMj_jMHduBlQ8lttwiEFfX7vpyM7gl1tsG1qItTZYcVYLlseHaJK6RHGiyswbtEe10zOytDDvzq0VQSHdD7zgsBSM8LPo8y7Me3efS1wUmOb4Avv43ZW8yGXm5yMHixRQon36GhpxMlOKYoraUbv7cAM-ldATOnWShTLmvAy5OXOtVK0jUjRh95g9EwPSMSSu1JquGqGSeabiyOeVTgB09nYWmZaQL1jf-VFon0vAjDA7w8wPfm2aXdreh24dLOHqRwVEMZK4BI3f0LGEtbzrEQwkVL_dgmi05B2rji492FmKVRDoRIoqrxkwVDrvE96VAtwZC4uTUU48tcmoayMR-pFH5ade_50EII5eEBNJuMBJCKmslUMbd5ucQIx2pDya2eZBbKrJv1Sot87EY9Xt0UWJN-UnfyiNtBj_Ed7ARslrqBKNYmxLuL_nVRwTTsCpm29qFpUUUfF6lvvL_5_mZfZ4ja6iNdv6Y09hzesn_tSN7iqP6bbRSdnKcNrOKhr4pCZSe0zxIpWIdkh-mh89xMM44FHz0xhOLCaRcr9q59WZxdM0sdC6HmSb6QrPqCOs6GGbZZAlroNmJOyNw0VL7F4edQn7My4Fg7qomu9uXqw7cvpAO6Te1V-fKJ8e7-feqfeP2g7QTDNCmTLDJKFg9z_NtRBgYoBWzGTuC1UKYYVUXJT3PGgfuyy6ZoDCWr7ZrLhMwtJrF_qCwT3tAh9DHLTPbwrGo8q5m5RBosEG-stddP-FiNDpXzQEGduJyordqWJruk3juFq-L8qmZ0XNYUhD_oxBQADPIFzjEnFqC5zkdHhZw2FzZM_Jl_6WMgg0AI_Q1thl9M8f2qUhsgiggV2AfHwRJrr9EWDi6alS463XD-Ocqs-qYHrHXiLd_fIMib-SF0AsUTnVb_ieKiqRJuDpggmyo_UU4icqCC7sPXigwXggwPfCRyQ=w2560-h892');
+  background-position: top left,top;
+}
+.reflexao-sobre--filme-bacurau-container3 {
+  width: 100%;
+  height: 697px;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxcontent);
+  align-self: center;
+  align-items: center;
+  padding-top: var(--dl-space-space-tripleunit);
+  padding-left: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  justify-content: center;
+}
+.reflexao-sobre--filme-bacurau-text {
+  top: 18%;
+  left: 24px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 5%;
+}
+.reflexao-sobre--filme-bacurau-text01 {
+  left: 97px;
+  color: rgb(255, 255, 255);
+  bottom: 7%;
+  position: absolute;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0%;
+}
+.reflexao-sobre--filme-bacurau-link06 {
+  display: contents;
+}
+.reflexao-sobre--filme-bacurau-rectangle3 {
+  right: 16px;
+  width: 50px;
+  bottom: 12%;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 28px;
+  background-size: cover;
+  justify-content: center;
+  text-decoration: none;
+  background-image: url("public/external/rectangle31345-pk4-200h.png");
+  background-position: center;
+}
+.reflexao-sobre--filme-bacurau-image {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 45%;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+}
+.reflexao-sobre--filme-bacurau-link07 {
+  display: contents;
+}
+.reflexao-sobre--filme-bacurau-rectangle31 {
+  right: var(--dl-space-space-tenunits);
+  width: 50px;
+  bottom: 12%;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 28px;
+  background-size: cover;
+  justify-content: flex-end;
+  text-decoration: none;
+  background-image: url("public/external/rectangle31345-pk4-200h.png");
+  background-position: center;
+}
+.reflexao-sobre--filme-bacurau-image1 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 45%;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+}
+.reflexao-sobre--filme-bacurau-text02 {
+  color: rgb(255, 255, 255);
+  right: var(--dl-space-space-doubleunit);
+  width: 60%;
+  bottom: 7%;
+  height: 20px;
+  position: absolute;
+  text-align: right;
+  font-weight: 300;
+  margin-bottom: 0%;
+}
+.reflexao-sobre--filme-bacurau-rectangle32 {
+  left: 16px;
+  width: 52px;
+  bottom: 5%;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  border-radius: var(--dl-radius-radius-round);
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://lh3.google.com/u/2/d/1ZwVoknOcvLnDY34D_WyOXtuwBGn7Eq__=w2559-h812-iv1');
+}
+.reflexao-sobre--filme-bacurau-text03 {
+  top: 153px;
+  left: 24px;
+  color: rgb(255, 255, 255);
+  width: auto;
+  position: absolute;
+  font-size: 56px;
+  text-align: left;
+  font-family: Arvo;
+  font-weight: 400;
+  line-height: 1.22;
+  text-transform: none;
+  text-decoration: none;
+}
+.reflexao-sobre--filme-bacurau-features {
+  width: 100%;
+  height: auto;
+  display: flex;
+  max-width: var(--dl-size-size-maxcontent);
+  margin-top: 0px;
+  align-items: center;
+  padding-top: 0px;
+  padding-left: 0px0;
+  margin-bottom: 0px;
+  padding-right: 0px;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-text04 {
+  color: var(--dl-color-light_textcolor-body1);
+  width: 100%;
+  height: auto;
+  font-size: 20px;
+  max-width: var(--dl-size-size-maxcontent);
+  align-self: auto;
+  margin-top: var(--dl-space-space-tripleunit);
+  text-align: left;
+  line-height: 150%;
+  padding-left: var(--dl-space-space-tripleunit);
+  margin-bottom: var(--dl-space-space-tripleunit);
+  padding-right: var(--dl-space-space-tripleunit);
+}
+.reflexao-sobre--filme-bacurau-hero {
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 0px;
+  max-width: 1400px;
+  min-height: auto;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-image2 {
+  width: 391px;
+  height: 456px;
+  margin: 5%;
+  margin-top: var(--dl-space-space-fourunits);
+  object-fit: cover;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  margin-bottom: 5%;
+}
+.reflexao-sobre--filme-bacurau-container4 {
+  flex: 0 0 auto;
+  width: 551px;
+  height: auto;
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-text35 {
+  font-size: 48px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.22;
+  margin-bottom: 2%;
+  text-transform: none;
+  text-decoration: none;
+}
+.reflexao-sobre--filme-bacurau-container5 {
+  width: 795px;
+  display: flex;
+  margin-left: 0px;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-btn-group {
+  display: flex;
+  margin-top: var(--dl-space-space-unit);
+  align-items: center;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.reflexao-sobre--filme-bacurau-button {
+  width: 180px;
+  height: 52px;
+  display: flex;
+  padding: 18px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: var(--dl-space-space-unit);
+  border-radius: 28px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-padro);
+}
+.reflexao-sobre--filme-bacurau-image3 {
+  width: 15%;
+  align-self: center;
+  object-fit: cover;
+}
+.reflexao-sobre--filme-bacurau-text39 {
+  color: var(--dl-color-light_textlinkcolor-white);
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  line-height: 120%;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.reflexao-sobre--filme-bacurau-button1 {
+  width: 180px;
+  height: 52px;
+  display: flex;
+  padding: 18px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  margin-left: var(--dl-space-space-unit);
+  border-color: transparent;
+  border-radius: 28px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: var(--dl-color-default-padro);
+}
+.reflexao-sobre--filme-bacurau-image4 {
+  width: 15%;
+  align-self: center;
+  object-fit: cover;
+}
+.reflexao-sobre--filme-bacurau-text40 {
+  color: var(--dl-color-light_textlinkcolor-white);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  line-height: 120%;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.reflexao-sobre--filme-bacurau-footer-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-white);
+}
+.reflexao-sobre--filme-bacurau-footer {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  align-items: center;
+  padding-top: 32px;
+  padding-left: 48px;
+  padding-right: 48px;
+  flex-direction: column;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-footer1 {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  align-items: stretch;
+  padding-top: 32px;
+  padding-left: 48px;
+  padding-right: 48px;
+  flex-direction: column;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-container6 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.reflexao-sobre--filme-bacurau-container7 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-logo {
+  display: flex;
+  max-width: 1400px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.reflexao-sobre--filme-bacurau-image5 {
+  width: 30%;
+  height: auto;
+  object-fit: cover;
+}
+.reflexao-sobre--filme-bacurau-text41 {
+  font-size: 18px;
+  margin-top: var(--dl-space-space-unit);
+  font-family: Arvo;
+}
+.reflexao-sobre--filme-bacurau-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-container8 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.reflexao-sobre--filme-bacurau-socials {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.reflexao-sobre--filme-bacurau-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.reflexao-sobre--filme-bacurau-link08 {
+  display: contents;
+}
+.reflexao-sobre--filme-bacurau-icon4 {
+  width: 32px;
+  height: 32px;
+  text-decoration: none;
+}
+.reflexao-sobre--filme-bacurau-link09 {
+  display: contents;
+}
+.reflexao-sobre--filme-bacurau-icon6 {
+  width: 32px;
+  height: 32px;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: 0px;
+  text-decoration: none;
+}
+.reflexao-sobre--filme-bacurau-separator {
+  width: 100%;
+  height: 1px;
+  margin-top: var(--dl-space-space-doubleunit);
+  margin-bottom: var(--dl-space-space-doubleunit);
+  background-color: var(--dl-color-gray-900);
+}
+.reflexao-sobre--filme-bacurau-text42 {
+  align-self: flex-start;
+}
+@media(max-width: 1200px) {
+  .reflexao-sobre--filme-bacurau-heading {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family: Arvo;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-link {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-link01 {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-text {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-weight: 300;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle31 {
+    right: var(--dl-space-space-tenunits);
+  }
+  .reflexao-sobre--filme-bacurau-text02 {
+    width: 60%;
+    height: 20px;
+    text-align: right;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle32 {
+    background-image: url('https://lh3.google.com/u/2/d/1ZwVoknOcvLnDY34D_WyOXtuwBGn7Eq__=w2559-h812-iv1');
+    background-position: top left;
+  }
+  .reflexao-sobre--filme-bacurau-text03 {
+    top: 153px;
+    color: rgb(255, 255, 255);
+    right: 0px;
+    font-size: 40px;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-text04 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 20px;
+    line-height: 150%;
+  }
+  .reflexao-sobre--filme-bacurau-image2 {
+    width: 378px;
+    height: 443px;
+    margin-right: var(--dl-space-space-tripleunit);
+  }
+  .reflexao-sobre--filme-bacurau-text35 {
+    text-transform: none;
+  }
+  .reflexao-sobre--filme-bacurau-container5 {
+    width: 551px;
+  }
+  .reflexao-sobre--filme-bacurau-btn-group {
+    width: 369px;
+  }
+}
+@media(max-width: 991px) {
+  .reflexao-sobre--filme-bacurau-navbar-container {
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.35);
+  }
+  .reflexao-sobre--filme-bacurau-navbar {
+    background-color: #C70D05;
+  }
+  .reflexao-sobre--filme-bacurau-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    text-align: center;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-link {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-link01 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.55;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-heading1 {
+    text-align: center;
+  }
+  .reflexao-sobre--filme-bacurau-container2 {
+    width: 100%;
+    height: 642px;
+    padding: var(--dl-space-space-fourunits);
+  }
+  .reflexao-sobre--filme-bacurau-container3 {
+    width: 100%;
+    padding: var(--dl-space-space-fourunits);
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .reflexao-sobre--filme-bacurau-text {
+    color: rgb(255, 255, 255);
+    width: auto;
+    font-size: 14px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: 1;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .reflexao-sobre--filme-bacurau-text01 {
+    left: 70px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    bottom: 5%;
+    font-size: 12px;
+    font-style: normal;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle3 {
+    bottom: 12%;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle31 {
+    bottom: 12%;
+  }
+  .reflexao-sobre--filme-bacurau-text02 {
+    top: 525px;
+    color: rgb(255, 255, 255);
+    width: 60%;
+    bottom: 5%;
+    height: 20px;
+    font-size: 12px;
+    font-style: normal;
+    text-align: right;
+    font-family: Inter;
+    font-weight: 300;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle32 {
+    width: 45px;
+    bottom: 3%;
+    height: 45px;
+  }
+  .reflexao-sobre--filme-bacurau-text03 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    margin-bottom: 0px;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-features {
+    height: auto;
+    padding-bottom: 0px;
+  }
+  .reflexao-sobre--filme-bacurau-text04 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 18px;
+    line-height: 150%;
+  }
+  .reflexao-sobre--filme-bacurau-hero {
+    padding: 48px;
+    flex-direction: column;
+  }
+  .reflexao-sobre--filme-bacurau-image2 {
+    margin-left: var(--dl-space-space-tripleunit);
+  }
+  .reflexao-sobre--filme-bacurau-text35 {
+    font-size: 42px;
+    font-style: normal;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-container5 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 32px;
+  }
+  .reflexao-sobre--filme-bacurau-button {
+    height: 32px;
+    margin-top: var(--dl-space-space-doubleunit);
+  }
+  .reflexao-sobre--filme-bacurau-button1 {
+    height: 32px;
+    margin-top: var(--dl-space-space-doubleunit);
+  }
+  .reflexao-sobre--filme-bacurau-footer {
+    flex-direction: column;
+  }
+  .reflexao-sobre--filme-bacurau-footer1 {
+    flex-direction: column;
+  }
+}
+@media(max-width: 767px) {
+  .reflexao-sobre--filme-bacurau-container {
+    background-color: #ffffff;
+  }
+  .reflexao-sobre--filme-bacurau-navbar {
+    padding: var(--dl-space-space-doubleunit);
+    position: relative;
+    background-color: #C70D05;
+  }
+  .reflexao-sobre--filme-bacurau-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    margin-left: var(--dl-space-space-doubleunit);
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-links-container {
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .reflexao-sobre--filme-bacurau-burger-menu {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    padding: var(--dl-space-space-halfunit);
+    margin-left: var(--dl-space-space-tripleunit);
+    border-radius: var(--dl-radius-radius-radius4);
+    background-color: #f7f7f7;
+  }
+  .reflexao-sobre--filme-bacurau-icon {
+    fill: #C70D05;
+    width: 32px;
+    height: 32px;
+    align-self: center;
+  }
+  .reflexao-sobre--filme-bacurau-container2 {
+    height: 473px;
+    margin-bottom: 0px;
+  }
+  .reflexao-sobre--filme-bacurau-text {
+    top: 12%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1;
+  }
+  .reflexao-sobre--filme-bacurau-text01 {
+    left: 38px;
+    color: rgb(255, 255, 255);
+    bottom: 2%;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle3 {
+    width: 32px;
+    bottom: 7%;
+    height: 32px;
+  }
+  .reflexao-sobre--filme-bacurau-image {
+    width: 45%;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle31 {
+    right: 56px;
+    width: 32px;
+    bottom: 7%;
+    height: 32px;
+  }
+  .reflexao-sobre--filme-bacurau-image1 {
+    width: 45%;
+  }
+  .reflexao-sobre--filme-bacurau-text02 {
+    top: 385px;
+    color: rgb(255, 255, 255);
+    right: 15px;
+    width: 60%;
+    bottom: 2%;
+    height: 20px;
+    position: absolute;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle32 {
+    left: 0px;
+    width: 32px;
+    bottom: 0%;
+    height: 32px;
+  }
+  .reflexao-sobre--filme-bacurau-text03 {
+    top: 16%;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: left;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-features {
+    height: auto;
+  }
+  .reflexao-sobre--filme-bacurau-text04 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 18px;
+    text-align: justify;
+    line-height: 150%;
+  }
+  .reflexao-sobre--filme-bacurau-hero {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .reflexao-sobre--filme-bacurau-container4 {
+    flex: 1;
+    width: 70%;
+  }
+  .reflexao-sobre--filme-bacurau-container5 {
+    width: 100%;
+  }
+  .reflexao-sobre--filme-bacurau-footer {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .reflexao-sobre--filme-bacurau-footer1 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .reflexao-sobre--filme-bacurau-container7 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .reflexao-sobre--filme-bacurau-logo {
+    align-items: center;
+  }
+  .reflexao-sobre--filme-bacurau-text41 {
+    margin-top: 32px;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+}
+@media(max-width: 479px) {
+  .reflexao-sobre--filme-bacurau-heading {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-style: normal;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: inherit;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-burger-menu {
+    margin-left: var(--dl-space-space-doubleunit);
+  }
+  .reflexao-sobre--filme-bacurau-container2 {
+    background-position: top left,left;
+  }
+  .reflexao-sobre--filme-bacurau-text {
+    top: 15%;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+  }
+  .reflexao-sobre--filme-bacurau-text01 {
+    left: 32px;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    bottom: 29px;
+    height: auto;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 300;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle3 {
+    left: 32px;
+    width: 24px;
+    bottom: 59px;
+    height: 24px;
+  }
+  .reflexao-sobre--filme-bacurau-image {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 45%;
+    bottom: 0px;
+    margin: auto;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle31 {
+    left: 0px;
+    width: 24px;
+    bottom: 60px;
+    height: 24px;
+  }
+  .reflexao-sobre--filme-bacurau-image1 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 45%;
+    bottom: 0px;
+    margin: auto;
+  }
+  .reflexao-sobre--filme-bacurau-text02 {
+    top: 392px;
+    left: 0px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    bottom: 4px;
+    height: auto;
+    position: absolute;
+    font-size: 8px;
+    font-style: normal;
+    text-align: left;
+    font-weight: 300;
+  }
+  .reflexao-sobre--filme-bacurau-rectangle32 {
+    left: 0px;
+    width: 24px;
+    bottom: 24px;
+    height: 24px;
+  }
+  .reflexao-sobre--filme-bacurau-text03 {
+    top: var(--dl-space-space-tenunits);
+    left: 0px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 28px;
+    font-family: Arvo;
+    font-weight: 400;
+    line-height: 1.22;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-text04 {
+    color: var(--dl-color-light_textcolor-body1);
+    font-size: 14px;
+    line-height: 150%;
+  }
+  .reflexao-sobre--filme-bacurau-hero {
+    height: 500px;
+    min-width: 100%;
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .reflexao-sobre--filme-bacurau-image2 {
+    width: 60%;
+    height: auto;
+    margin: 0px;
+    align-self: center;
+  }
+  .reflexao-sobre--filme-bacurau-container4 {
+    width: 320px;
+    height: 120px;
+  }
+  .reflexao-sobre--filme-bacurau-text35 {
+    width: 80%;
+    font-size: 32px;
+    min-width: 80%;
+    align-self: center;
+    font-style: normal;
+    margin-top: var(--dl-space-space-unit);
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 1.22;
+    margin-bottom: var(--dl-space-space-unit);
+    text-transform: none;
+    text-decoration: none;
+  }
+  .reflexao-sobre--filme-bacurau-container5 {
+    width: 339px;
+    height: 18px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .reflexao-sobre--filme-bacurau-btn-group {
+    height: 33px;
+    margin-top: var(--dl-space-space-unit);
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-unit);
+    flex-direction: row;
+    justify-content: center;
+  }
+  .reflexao-sobre--filme-bacurau-button {
+    width: 120px;
+    height: 32px;
+    margin-top: 0px;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .reflexao-sobre--filme-bacurau-image3 {
+    width: 15%;
+  }
+  .reflexao-sobre--filme-bacurau-text39 {
+    color: var(--dl-color-light_textlinkcolor-white);
+    font-size: 12px;
+    font-style: normal;
+    font-family: Inter;
+    line-height: 120%;
+  }
+  .reflexao-sobre--filme-bacurau-button1 {
+    width: 120px;
+    height: 32px;
+    margin-top: 0px;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+    justify-content: center;
+  }
+  .reflexao-sobre--filme-bacurau-image4 {
+    width: 15%;
+  }
+  .reflexao-sobre--filme-bacurau-text40 {
+    color: var(--dl-color-light_textlinkcolor-white);
+    font-size: 12px;
+    align-self: center;
+    font-style: normal;
+    font-family: Inter;
+    line-height: 120%;
+  }
+  .reflexao-sobre--filme-bacurau-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .reflexao-sobre--filme-bacurau-footer1 {
+    padding: var(--dl-space-space-unit);
+  }
+  .reflexao-sobre--filme-bacurau-container7 {
+    align-items: center;
+    flex-direction: column;
+  }
+  .reflexao-sobre--filme-bacurau-image5 {
+    width: 40%;
+  }
+  .reflexao-sobre--filme-bacurau-text41 {
+    font-size: 14px;
+    margin-top: var(--dl-space-space-doubleunit);
+    font-family: Arvo;
+    margin-bottom: var(--dl-space-space-doubleunit);
+  }
+  .reflexao-sobre--filme-bacurau-links-container {
+    align-items: center;
+    flex-direction: column;
+  }
+  .reflexao-sobre--filme-bacurau-container8 {
+    margin-top: 24px;
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
+  .reflexao-sobre--filme-bacurau-icon4 {
+    width: 20px;
+    height: 20px;
+  }
+  .reflexao-sobre--filme-bacurau-icon6 {
+    width: 20px;
+    height: 20px;
+  }
+  .reflexao-sobre--filme-bacurau-text42 {
+    font-size: 12px;
+    align-self: center;
+    text-align: center;
+  }
+}
